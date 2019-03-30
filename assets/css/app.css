@@ -1,0 +1,45 @@
+
+* {
+  font-family: 'Arvo', serif;
+
+ }
+
+#servicos-e-map {
+  margin-top: 5%;
+}
+
+
+#promotions {
+  margin-top: 10%;
+}
+
+#navbar a {
+  color: grey;
+}
+
+#intro {
+  margin-top:2%;
+  margin-bottom: 3%;
+}
+
+
+#intro h1 {
+  color: #854149;
+}
+
+#servicos {
+  color: #8f3f71;
+}
+
+#servicos th, td {
+  border: 0px;
+}
+
+#instagram-feed {
+  margin-top:5%;
+  margin-bottom: 5%;
+}
+
+button.slick-prev.slick-arrow::before, button.slick-next.slick-arrow::before {
+  color: #8f3f71;
+}
